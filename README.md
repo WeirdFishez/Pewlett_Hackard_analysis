@@ -1,6 +1,6 @@
-## Employee database analysis
+# Employee database analysis
 
-## Overview of the analysis
+## Overview
 For this assignment, we were contacted by Pewlett-Hackard to identify the number of  "silver-tsunami" baby boomers hitting retirement soon. This is potentially a significant staffing risk as this age-group makes up a large percentage of the employee population. To better prep, we used SQL to determine the number of retiring employees per title.
 Then to help mitigate the loss of tenure, we identified the number of employees eligible to participate in a mentorship program to assist PH with talent development.
 	
