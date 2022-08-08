@@ -1,18 +1,18 @@
 # Employee database analysis
 
-Overview of the analysis
+## Overview of the analysis
 For this assignment, we were contacted by Pewlett-Hackard to identify the number of  "silver-tsunami" baby boomers hitting retirement soon. This is potentially a significant staffing risk as this age-group makes up a large percentage of the employee population. To better prep, we used SQL to determine the number of retiring employees per title.
 Then to help mitigate the loss of tenure, we identified the number of employees eligible to participate in a mentorship program to assist PH with talent development.
 	
 	
-Results
+## Results
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 	1. There are 72,458 employees currently employed at PH meeting the "silver-tsunami" age criteria of being born between 1952 and 1956.
 	2. Senior leadership roles (staff and engineer) make up 50,842 or 70.2% of the retiring population. 
 	3. There are 1,549 employees currently employed with PH who meet the mentorship criteria of being born in 1965.
 	4. There are not enough mentorship-eligible employees currently employed at PH to fill the need to help backfill the 72,458 employees expected to retire in the "silver-tsunami".
 	
-Summary
+## Summary
 	
 	Q: How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 	A: There will be 72,458 roles in this age-group that will need to be backfilled.
