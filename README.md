@@ -14,7 +14,7 @@ Provide a bulleted list with four major points from the two analysis deliverable
 	
 ## Summary
 
-**Q:** _How many roles will need to be filled as the "silver tsunami" begins to make an impact?_
+**Q:** _How many roles will need to be filled as the "silver tsunami" begins to make an impact?_ \n
 **A:** There will be 72,458 roles in this age-group that will need to be backfilled.
 	
 ![image](https://user-images.githubusercontent.com/107438816/183328624-b34c974c-a12d-408a-b4f5-ec26ffd1d888.png)
