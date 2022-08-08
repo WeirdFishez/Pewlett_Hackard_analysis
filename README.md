@@ -14,13 +14,13 @@ Provide a bulleted list with four major points from the two analysis deliverable
 	
 ## Summary
 
-**Q:**_ How many roles will need to be filled as the "silver tsunami" begins to make an impact?_
+**Q:** _How many roles will need to be filled as the "silver tsunami" begins to make an impact?_
 **A:** There will be 72,458 roles in this age-group that will need to be backfilled.
 	
 ![image](https://user-images.githubusercontent.com/107438816/183328624-b34c974c-a12d-408a-b4f5-ec26ffd1d888.png)
 
 	
-**Q:**_ Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?_
+**Q:** _Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?_
 **A:** No, there are only 1,549 retirement-ready employees in the departments available to mentor with the current mentorship pre-requisites. We suggest expanding criteria of mentor ship eligibility outside of the 1965 birthyear.
 	
 ![image](https://user-images.githubusercontent.com/107438816/183328752-5918198b-6edb-4095-beb1-c4432276973e.png)
