@@ -21,7 +21,7 @@ Provide a bulleted list with four major points from the two analysis deliverable
 
 	
 **Q:** _Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?_
-**A:** No, there are only 1,549 retirement-ready employees in the departments available to mentor with the current mentorship pre-requisites. We suggest expanding criteria of mentor ship eligibility outside of the 1965 birthyear.
+**A:** No, there are only 1,549 retirement-ready employees in the departments available to mentor with the current mentorship pre-requisites. We suggest expanding criteria of mentorship eligibility outside of the 1965 birthyear.
 	
 ![image](https://user-images.githubusercontent.com/107438816/183328752-5918198b-6edb-4095-beb1-c4432276973e.png)
 
